@@ -1,6 +1,6 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
-    "prefix": "//",
+    "token": "MTAyMzQ3NjUxOTMwMzEzOTQxOA.GEe9S6.fkwCe-rSL2_aHSdOcszLYkcO3EQTrKnsWZjvQc",
+    "prefix": "Xeon/",
     "ownerIDS": [
         "442355791412854784"
     ],
@@ -9,9 +9,9 @@
     "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
     "status": {
         "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-        "text2": "By: discord.gg/dcdev",
+        "text2": "By: NotFo4nd",
         "type": "PLAYING",
-        "url": "https://twitch.tv/milratodiscordbot"
+        "url": "Acumalaka.xyz"
     },
     "clientsettings": {
         "nodes": [
